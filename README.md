@@ -7,7 +7,7 @@
   <div>
     <a href="https://github.com/Confiac1563/Valkaw-Client"><img src="https://img.shields.io/badge/Page-Github?style=flat&logo=GitHub&logoColor=white&logoSize=96&label=GitHub&labelColor=grey&color=009C0F&link=https%3A%2F%2Fgithub.com%2FConfiac1563%2FValkaw-Client"></a>
     <a href="https://modrinth.com/modpack/valkaw-client"><img src="https://img.shields.io/badge/Page-modrinth?style=flat&logo=modrinth&logoColor=dark_green&logoSize=96&label=Modrinth&labelColor=grey&color=009C0F&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fvalkaw-client"></a> <br>
-    <a href="https://modrinth.com/modpack/wynnkaw"><img src="https://img.shields.io/badge/Modpack-wynn?style=flat&logo=modrinth&logoColor=dark_green&logoSize=16&label=WynnCraft&labelColor=grey&color=009C0F"></a>
+    <a href="https://modrinth.com/modpack/wynnperf"><img src="https://img.shields.io/badge/Modpack-wynn?style=flat&logo=modrinth&logoColor=dark_green&logoSize=16&label=WynnCraft&labelColor=grey&color=009C0F"></a>
   </div>
 </div>
 
