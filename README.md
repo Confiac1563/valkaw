@@ -1,12 +1,11 @@
-
 <div align="center">
-  <img src="https://iili.io/BnXUgiF.gif">
+  <img src="https://i.ibb.co/QFt5LMHm/standard.gif">
   
   <p><b>🚀 Maximize your Minecraft performance with the ultimate optimization modpack!</b></p>
 
   <div>
-    <a href="https://github.com/Confiac1563/Valkaw-Client"><img src="https://img.shields.io/badge/Page-Github?style=flat&logo=GitHub&logoColor=white&logoSize=96&label=GitHub&labelColor=grey&color=009C0F&link=https%3A%2F%2Fgithub.com%2FConfiac1563%2FValkaw-Client"></a>
-    <a href="https://modrinth.com/modpack/valkaw-client"><img src="https://img.shields.io/badge/Page-modrinth?style=flat&logo=modrinth&logoColor=dark_green&logoSize=96&label=Modrinth&labelColor=grey&color=009C0F&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fvalkaw-client"></a> <br>
+    <a href="https://github.com/Confiac1563/valkaw"><img src="https://img.shields.io/badge/Page-Github?style=flat&logo=GitHub&logoColor=white&logoSize=96&label=GitHub&labelColor=grey&color=009C0F&link=https%3A%2F%2Fgithub.com%2FConfiac1563%2FValkaw-Client"></a>
+    <a href="https://modrinth.com/modpack/valkaw"><img src="https://img.shields.io/badge/Page-modrinth?style=flat&logo=modrinth&logoColor=dark_green&logoSize=96&label=Modrinth&labelColor=grey&color=009C0F&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fvalkaw-client"></a> <br>
     <a href="https://modrinth.com/modpack/wynnperf"><img src="https://img.shields.io/badge/Modpack-wynn?style=flat&logo=modrinth&logoColor=dark_green&logoSize=16&label=WynnCraft&labelColor=grey&color=009C0F"></a>
   </div>
 </div>
@@ -17,7 +16,7 @@
 
 ## 🎯 Introduction
 
-**Valkaw Client** is a carefully curated Fabric modpack designed with a single goal in mind: **pushing your Minecraft performance to the absolute limit.** Whether you are playing on a low-end laptop or a high-end gaming beast, this modpack ensures the smoothest, stutter-free experience possible while keeping the core game completely untouched.
+**Valkaw** is a carefully curated Fabric modpack designed with a single goal in mind: **pushing your Minecraft performance to the absolute limit.** Whether you are playing on a low-end laptop or a high-end gaming beast, this modpack ensures the smoothest, stutter-free experience possible while keeping the core game completely untouched.
 
 <div align="center">
   <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/86987bb4-cc30-4fe3-b3b3-221e50c26f87" />
@@ -48,7 +47,7 @@
 
 ## 📦 Core Optimization Mods
 
-Valkaw Client offers two different rendering paths depending on your hardware and preferences. Choose the version that best suits your system!
+Valkaw offers two different rendering paths depending on your hardware and preferences. Choose the version that best suits your system!
 
 ### 1. <img src="https://github.com/user-attachments/assets/fbe72a0f-1deb-48ad-aaf6-f0aff57a9383" width="16"> Sodium Edition
 
@@ -69,7 +68,9 @@ The standard, highly compatible optimization route using the OpenGL API. Perfect
 <br>
 
 ### 2. <img src="https://github.com/user-attachments/assets/ee4a55c9-3f86-491b-a5de-fcf48bccf72d" width="16"> VulkanMod Edition (Maximum Raw Performance)
-A wildly powerful route that completely replaces OpenGL with the Vulkan API. Incredible for squeezing out the absolute maximum raw FPS, especially on AMD or newer GPUs (2012 or above).
+
+A wildly powerful route that completely replaces OpenGL with the Vulkan API. Incredible for squeezing out the absolute maximum raw FPS, require Vulkan API 1.3.
+
 <details>
   <summary><b> Click to expand the VulkanMod modlist</b></summary>
   <br>
@@ -78,7 +79,7 @@ A wildly powerful route that completely replaces OpenGL with the Vulkan API. Inc
     <li><b>Lithium:</b> General-purpose optimization for game physics, AI, and block ticking.</li>
     <li><b>FerriteCore:</b> Significantly reduces the memory footprint of the game.</li>
     <li><b>EntityCulling:</b> Skips rendering hidden entities/tiles to boost performance.</li>
-    <li><b>Beryl:</b> VulkanMod has Beryl, a mod that provides shaders like Vibrant Visual. It was created specifically to improve the realistic gaming experience with VulkanMod.</li>
+    <li><b>Beryl:</b> VulkanMod has Beryl, a mod that provides shaders like Vibrant Visuals. It was created specifically to improve the realistic gaming experience with VulkanMod.</li>
   </ul>
 </details>
 
@@ -90,14 +91,14 @@ A wildly powerful route that completely replaces OpenGL with the Vulkan API. Inc
 
 ### 🟢 Modrinth App, MultiMC, Prims Launcher (Recommended)
 1. Open the launcher that supports the Modrinth modpack format.
-2. Search for **Valkaw Client**.
+2. Search for **Valkaw**.
 3. Choose your preferred edition, either Sodium or VulkanMod, and the Minecraft version you want to play.
 4. Click **Install** and hit play!
 
 ### 🟡 CurseForge and other launchers (Legacy Launcher, Titan Launcher,...)
 1. Not supported <b>CurseForge</b>, the only way is to use the installation method below.
 2. The best way is to <b>download and extract the ZIP file</b> from the <b>GitHub release</b>, then copy and paste it into the instance you want.
-3. Notice: you’ll need to update everything <b>manually</b>.
+3. Notice: you’ll need to update everything <b>manually</b>. 
 --- 
 
 <div align="center">
@@ -108,4 +109,4 @@ A wildly powerful route that completely replaces OpenGL with the Vulkan API. Inc
   <br>
 
   <h3>🔗 Useful Links</h3>
-  <a href="https://github.com/Confiac1563/Valkaw-Client/issues">[ 🐛 Report a Bug (GitHub) ]</a>
+  <a href="https://github.com/Confiac1563/valkaw/issues">[ 🐛 Report a Bug (GitHub) ]</a>
